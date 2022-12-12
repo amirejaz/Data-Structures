@@ -43,6 +43,7 @@ This repo is based on both linear and non-linear data structures:-    <br>
   - Dijkistra's Algorithm
   - Prim's Algorithm <br>
 11. Hashing  (C and Python) <br>
+  - Chaining (in C)
   - Linear Probing
   - Quadratic Probic <br>
 12. Sorting <br>
